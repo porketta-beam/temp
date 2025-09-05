@@ -1,3 +1,7 @@
+# 저장파일
+data/
+results/
+
 # Claude IDE settings
 .claude/
 
